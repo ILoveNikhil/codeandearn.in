@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(128, 122, 0);
+}
+
+/* logo css */
+#logo{
+    border-radius: 20px;
+}
+/* nav design */
+nav ul {
+    display: inline-block;
+}
